@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AdminChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminResetPasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminStudentManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminStudentOriginStatsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminTeacherManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\ClassScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\StudentChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\StudentCoursesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\StudentDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\StudentGradesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Student\StudentInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherCoursesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherGradeManagementForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherGradeRankingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherGradeViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Teacher\TeacherInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
